@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center; align-items: center; padding:30px;">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
     </a>

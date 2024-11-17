@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ML/DL,MERN Stack, Computer Vision**
 
 - 📫 How to reach me **goldwinho@gmail.com**
-- 
+
 <h3 align="left">Languages and Tools:</h3> <br>
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">

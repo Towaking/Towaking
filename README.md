@@ -4,13 +4,9 @@
 - 🌱 I’m currently learning **ML/DL,MERN Stack, Computer Vision**
 
 - 📫 How to reach me **goldwinho@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center; align-items: center; padding: 20px; margin: 20px 0;">
+- 
+<h3 align="left">Languages and Tools:</h3> <br>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; justify-items: center; align-items: center;">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
     </a>
@@ -77,6 +73,6 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
-</div>
+</div><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=towaking&show_icons=true&locale=en&layout=compact" alt="towaking" /></p>

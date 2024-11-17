@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Goldwin Hoxenlly</h1> 
+<h3 align="center">An Artificial Intelligence (AI) enthusiast passionate about innovation and the application of intelligent technologies for a better future.</h3>
+
 # 💫 About Me:
 <br>🌱 I’m currently learning **ML/DL,MERN Stack, Computer Vision**<br>📫 How to reach me **goldwinho@gmail.com**
 

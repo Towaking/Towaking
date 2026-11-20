@@ -1,20 +1,77 @@
-<h1 align="center">Hi 👋, I'm Goldwin Hoxenlly</h1> 
-<h3 align="center">An Artificial Intelligence (AI) enthusiast passionate about innovation and the application of intelligent technologies for a better future.</h3>
+<div align="center">
 
-# 💫 About Me:
-<br>🌱 I’m currently learning **ML/DL,MERN Stack, Computer Vision**<br>📫 How to reach me **goldwinho@gmail.com**
+# Hi, I'm Goldwin Hoxenlly 👋
 
+**Data Analytics · Data Engineering · Machine Learning**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Towaking&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaking&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy working with data—from exploring and transforming datasets to building machine learning models and data-driven applications.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Towaking&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[LinkedIn](https://www.linkedin.com/in/goldwin-hoxenlly/) · [GitHub](https://github.com/Towaking)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Towaking&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+- 🎓 Computer Science graduate and Master's student in Computer Science.
+- 💼 Former Data Analyst Intern with 6 months of professional experience.
+- 🔍 Interested in **Data Engineering, Analytics, Machine Learning, and Big Data**.
+- 🧠 Experienced with academic and personal projects involving data processing, machine learning, and deep learning.
+- 🌱 Currently strengthening my skills in data pipelines, data modeling, databases, and scalable data processing.
+
+I’m interested in turning raw data into reliable, well-structured datasets and useful insights—whether for analytics or machine learning applications.
+
+## Technical Interests & Tools
+
+### Programming & Data
+- Python
+- SQL
+- Pandas, NumPy
+
+### Machine Learning
+- PyTorch
+- Scikit-learn
+- Deep Learning
+- Computer Vision
+
+### Data & Engineering (currently developing further)
+- ETL / ELT concepts
+- Data pipelines
+- Data modeling and databases
+- Big Data processing
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+
+> This section reflects my areas of experience and learning. I will continuously update it as I build and use more tools in projects.
+
+## Featured Work
+
+Here are some areas I work and explore
+
+- **Machine Learning & Deep Learning** — model development, experimentation, evaluation, and data preparation.
+- **Data Analytics** — exploratory analysis, data cleaning, visualization, and extracting insights.
+- **Big Data & Data Processing** — working with data processing concepts and exploring scalable workflows.
+- **Software & IoT Projects** — integrating software components, APIs, and hardware where applicable.
+
+
+## Current Focus
+
+- Building end-to-end data pipelines.
+- Improving SQL and database fundamentals.
+- Learning workflow orchestration and reproducible data environments.
+- Exploring scalable processing tools such as Apache Spark.
+- Applying data engineering practices to real datasets and ML workflows.
+
+## Connect with Me
+
+- LinkedIn: [goldwin-hoxenlly](https://www.linkedin.com/in/goldwin-hoxenlly/)
+- GitHub: [@Towaking](https://github.com/Towaking)
+
+---
+
+<div align="center">
+  <i>Always learning, building, and improving.</i>
+</div>
